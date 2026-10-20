@@ -1,0 +1,23 @@
+h2{
+    color: #FF9900;
+}
+
+.container{
+    display: flex;
+    gap: 16px;
+    justify-content: center;
+    align-items: center;
+}
+
+.blue{
+    color: #0000FF
+}
+
+a{
+    color:rgb(255, 127, 127)
+}
+
+a:hover{
+    color: #B22222;
+    font-size: 20px;
+}
